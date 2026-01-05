@@ -1,5 +1,3 @@
-// Edit ONLY the text inside quotes. No HTML knowledge needed.
-
 window.SITE = {
   name: "Elliot Vale",
   initials: "EV",
@@ -55,3 +53,4 @@ window.SITE = {
     ]
   }
 };
+
